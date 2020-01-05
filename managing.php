@@ -38,10 +38,10 @@ if(isset($_POST["aduser"]) && isset($_POST["adpass"]))
         <table>
             <tr>
                 <th class="tit">ID</th>
-                <th class="tit">Name</th>
-                <th class="tit">Price ($)</th>
-                <th class="tit">Description</th>
-                <th class="tit">Image</th>
+                <th class="tit">Tên Sản Phẩm</th>
+                <th class="tit">Giá (VNĐ)</th>
+                <th class="tit">Mô tả / Giới thiệu</th>
+                <th class="tit">Ảnh</th>
                 <th class="tit">Editing</th>
             </tr>
 
